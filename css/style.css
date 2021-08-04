@@ -217,6 +217,9 @@ body {
     color: #696871;
 
 }
+.pricing{
+    margin-bottom: 90px;
+}
 
 .pricing-head{
     display: flex;
